@@ -27,7 +27,7 @@
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-0078D6?style=for-the-badge&logo=flutter&logoColor=blue&color=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-34A853?style=for-the-badge&logo=laravel&logoColor=red&color=black)
+![Laravel](https://img.shields.io/badge/Laravel-34A853?style=for-the-badge&logo=laravel&logoColor=white&color=red)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 
