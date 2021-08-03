@@ -2,7 +2,11 @@
 
 ## About me
 
-<p>💻 Full-Stack Mobile/Web develper.</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/caleb-moses-0a1b531b9/"><img src="https://raw.githubusercontent.com/sergiomauz/sergiomauz/master/img/linkedin.svg" alt="linkedin logo" height="20"></a>&nbsp;&nbsp;
+  <a href="mailto:calebmoses1111@gmail.com"><img src="https://raw.githubusercontent.com/sergiomauz/sergiomauz/master/img/gmail.svg" alt="gmail logo" height="20"></a>&nbsp;&nbsp;
+</p>
+<p>💻 I'm a Full-Stack develper currently living in cameroon. I am building mobile and web apps capable of working remote and  on relocation</p>
 <p>🧠 Currently studying Software Engineering at <img src="https://img.shields.io/badge/Microverse-blueviolet" atl="Microverse logo" height="20">.</p>
 <p>🌱 I’m learning JavaScript, React, Ruby, Ruby on Rails, Html and CSS. </p>
 <p>⚙️ I am the author of many solo and remote pair programming projects stored as public here in github.</p>
