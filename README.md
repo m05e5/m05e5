@@ -3,7 +3,7 @@
 ## About me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/caleb-moses-0a1b531b9/"><img src="https://raw.githubusercontent.com/sergiomauz/sergiomauz/master/img/linkedin.svg" alt="linkedin logo" height="20"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/caleb-moses/"><img src="https://raw.githubusercontent.com/sergiomauz/sergiomauz/master/img/linkedin.svg" alt="linkedin logo" height="20"></a>&nbsp;&nbsp;
   <a href="mailto:calebmoses1111@gmail.com"><img src="https://raw.githubusercontent.com/sergiomauz/sergiomauz/master/img/gmail.svg" alt="gmail logo" height="20"></a>&nbsp;&nbsp;
 </p>
 <p>💻 I'm a Full-Stack developer currently living in Cameroon. I am building mobile and web apps capable of working remote and  on relocation</p>
